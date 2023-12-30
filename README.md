@@ -21,7 +21,7 @@
 
 <body  style="background-color: black;">
     <h1 class="h1">Disculpa amigo estaba ocupado resolviendo problemas familiares por eso no te pude contestar</h1>
-    <a href="https://www.mundodeportivo.com/uncomo/belleza/articulo/como-tener-una-piel-blanca-42046.html" target="_blank" rel="noopener noreferrer"><img src="gato_bonito.avif" atl="para mi mejor amigo" class="amigo_solo"></a>
+    <a href="https://www.mundodeportivo.com/uncomo/belleza/articulo/como-tener-una-piel-blanca-42046.html" target="_blank" rel="noopener noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fposter%2Fsad-Cat-Face-by-CustomPrintHub%2F141370717.LVTDI&psig=AOvVaw2sI4RUm-BF9a7uNJaJrYBl&ust=1704014064477000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKj695jptoMDFQAAAAAdAAAAABAD" atl="para mi mejor amigo" class="amigo_solo"></a>
     <p class="p">Pero si quieres podemos jugar fre</p>
 </body>
 
