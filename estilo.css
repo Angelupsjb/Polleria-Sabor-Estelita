@@ -1,0 +1,32 @@
+.contenedor {
+    width: 80%;
+    margin: auto;
+}
+
+.cabecera {
+    background-color: #ffcc00;
+    padding: 10px;
+    text-align: center;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+    
+}
+
+.contenido-principal {
+    background-color: #eeeeee;
+    padding: 20px;
+    min-height: 100px;
+}
+
+.pie-pagina {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+}
