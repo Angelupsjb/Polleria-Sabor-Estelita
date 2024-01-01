@@ -7,18 +7,18 @@
     <link rel="stylesheet" href="estilo.css">
     <style>
         .pollito-rico {
-            width: 300px;
+            width: 150px;
             height: 210px;
         }
 
         .mostrito-rico {
-            width: 300px;
+            width: 150px;
             height: 210px;
             float: right;
         }
 
         .caldo-rico {
-            width: 300px;
+            width: 150px;
             height: 210px;
             float: right;
             margin-right: 83px;
@@ -43,7 +43,7 @@
         }
 
         .hamburguesa-rico {
-            width: 300px;
+            width: 150px;
             height: 210px;
             float: left;
             margin-left: 150px;
@@ -51,7 +51,7 @@
         }
 
         .hamburguesa-carne {
-            width: 300px;
+            width: 150px;
             height: 210px;
             float: right;
             margin-left: 150px;
@@ -70,7 +70,7 @@
             margin-left: 110px;
             margin-right: 100px;
         }
-        .h1-menor{
+        .h3-menor{
             float: right;
             margin-right: 83px;
             color: black;
@@ -99,7 +99,7 @@
             <p class="clase-carne">HAMBURGUESA DE CARNE</p>
         </div>
         <div class="contenido-principal">
-            <h1 class="h1-menor">HORA DE ATENCION DE LAS 12:OO PM HASTA LAS 11:PM</h1>
+            <h3 class="h3-menor">HORA DE ATENCION DE LAS 12:OO PM HASTA LAS 11:PM</h3>
         </div>
         <div class="pie-pagina">
             HOY 1/01/2024
